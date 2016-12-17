@@ -1,2 +1,2 @@
 # myRepo
-my first organization repo on github
+my first organization repo on github pull request
